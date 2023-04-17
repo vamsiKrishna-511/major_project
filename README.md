@@ -1,1 +1,1 @@
-# major_project.io
+# major_project
